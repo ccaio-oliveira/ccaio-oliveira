@@ -3,7 +3,7 @@
 <div align="center">
   <a href="https://github.com/ccaio-oliveira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ccaio-oliveira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccaio-oliveira&layout=compact&langs_count=8&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccaio-oliveira&layout=compact&langs_count=10&theme=dark"/>
 </div>
 
 ##
@@ -16,4 +16,4 @@
 
 ##
 
-![Snake animation](https://github.com/ccaio-oliveira/ccaio-oliveira/blob/output/github-contribution-grid-snake.svg)
+[Snake animation](https://github.com/ccaio-oliveira/ccaio-oliveira/blob/output/github-contribution-grid-snake.svg)
