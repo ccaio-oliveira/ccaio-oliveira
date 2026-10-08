@@ -16,4 +16,4 @@
 
 ##
 
-[Snake animation](https://github.com/ccaio-oliveira/ccaio-oliveira/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/ccaio-oliveira/ccaio-oliveira/blob/output/github-contribution-grid-snake.svg)
